@@ -147,7 +147,7 @@ jupyter
 ## Author
 
 **Nehu2021**  
-GitHub: [https://github.com/Nehu2021](https://github.com/Nehu2021)
+GitHub: [https://github.com/Nehu2021](https://github.com/neha-khatry)
 
 ---
 
